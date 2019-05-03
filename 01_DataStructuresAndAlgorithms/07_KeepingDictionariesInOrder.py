@@ -1,5 +1,7 @@
 from collections import OrderedDict
 
+# 딕셔너리 순서 유지
+
 d = OrderedDict()
 d['foo'] = 1
 d['bar'] = 2
